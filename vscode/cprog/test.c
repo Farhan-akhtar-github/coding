@@ -10,7 +10,7 @@ int main()
 
    c = a + b;
 
-   printf("%d", c);
+   printf("%d %d %d", a,b,c);
 
     
   
