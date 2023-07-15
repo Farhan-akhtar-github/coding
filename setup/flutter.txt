@@ -1,0 +1,9 @@
+On Debian 9 (Stretch) and newer, snap/flutter is installed from terminal:
+https://snapcraft.io/install/flutter/debian
+
+sudo apt update
+sudo apt install snapd
+sudo snap install core
+sudo snap install flutter --classic
+
+-------------------------------------------------------------------------------------------------------
